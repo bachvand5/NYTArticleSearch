@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">NYT Article Search</string>
+    <string name="developer_id">1e80c1facf29f34936020c8a484f5aa6:13:74742440</string>
+    <string name="api_link">http://api.nytimes.com/svc/search/v2/</string>
+    <string name="api_search_serivce">articlesearch.json?</string>
+    <string name="image_link">http://nytimes.com/</string>
+    <string name="action_settings">Search Filter</string>
+    <string name="begin_date">Begin Date</string>
+    <string name="sort">Sort Order</string>
+    <string name="news_desk">News Desk Values</string>
+    <string name="sort_oldest">Oldest</string>
+    <string name="sort_newest">Newest</string>
+    <string name="desk_arts">Arts</string>
+    <string name="desk_style">Fashion/Style</string>
+    <string name="desk_sports">Sports</string>
+</resources>
