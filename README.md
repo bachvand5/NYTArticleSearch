@@ -42,7 +42,7 @@ N/A
 
 Here's a walkthrough of implemented user stories:
 
-TBU
+<a href="https://picasaweb.google.com/lh/photo/yK2c2GWwghO7-aj2bSgBu9MTjNZETYmyPJy0liipFm0?feat=embedwebsite"><img src="https://lh3.googleusercontent.com/-Q6TMU4j9R00/VvnY8W6JhyI/AAAAAAAABSQ/BKAPPNScNAUxqqKKqj5hq25zP-b8QC4VgCCo/s800-Ic42/2016_03_28_23_25_44.gif" height="569" width="320" /></a>
 
 GIF created with [AZ Screen Recorder] and [Zamzar](http://www.zamzar.com/).
 
